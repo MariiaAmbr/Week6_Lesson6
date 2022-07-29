@@ -61,6 +61,24 @@ h1 {
   height: 38px;
 }
 
-.signature {
-  color: black;
+footer {
+  text-align: center;
+  color: #900048;
+  font-size: small;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.git {
+  color: azure;
+  text-decoration: none;
+}
+
+.net {
+  color: azure;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #900048;
 }
